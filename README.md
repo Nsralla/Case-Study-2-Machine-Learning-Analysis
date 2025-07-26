@@ -9,9 +9,13 @@ All results and discussion are collected in **Case study2.pdf**, while the full,
 
 .
 ├── docs/
+
 │ └── Case study2.pdf # Polished report (43 pp.)
+
 ├── notebooks/
+
 │ └── case_Study_2_final.ipynb # Jupyter notebook with code & visuals
+
 └── README.md # You are here
 
 ## Quick start
