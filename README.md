@@ -40,9 +40,14 @@ The PDF version of the write-up is in docs/Case study2.pdf.
 3-Clean project structure — separation of code, docs and data for maintainability.
 
 ## How it works (high-level)
-Data ingestion — load raw CSV/Excel data into pandas.
-Exploration & cleaning — handle missing values, outliers and categorical encoding.
-Feature engineering — scaling, PCA dimensionality reduction and manual domain features.
-Model training — compare SVM, Random Forest and MLP with GridSearchCV.
-Evaluation — precision/recall, confusion matrices and model explanation.
-Reporting — compile findings into the PDF for stakeholders.
+1-Data ingestion — load raw CSV/Excel data into pandas.
+
+2-Exploration & cleaning — handle missing values, outliers and categorical encoding.
+
+3-Feature engineering — scaling, PCA dimensionality reduction and manual domain features.
+
+4-odel training — compare SVM, Random Forest and MLP with GridSearchCV.
+
+5-Evaluation — precision/recall, confusion matrices and model explanation.
+
+6-Reporting — compile findings into the PDF for stakeholders.
